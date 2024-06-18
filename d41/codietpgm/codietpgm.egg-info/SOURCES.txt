@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+codietpgm/codietpgm.egg-info/PKG-INFO
+codietpgm/codietpgm.egg-info/SOURCES.txt
+codietpgm/codietpgm.egg-info/dependency_links.txt
+codietpgm/codietpgm.egg-info/not-zip-safe
+codietpgm/codietpgm.egg-info/top_level.txt
